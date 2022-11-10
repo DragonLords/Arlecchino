@@ -1,0 +1,94 @@
+{
+	"hist": [
+		{
+			"color": 39423,
+			"title": "アルレッキーノ v0.1",
+			"author": {
+				"name": "アルレッキーノ",
+				"iconURL": "https://cdn.discordapp.com/attachments/1036453308807778465/1038441316406792212/game-icon.png",
+				"proxyIconURL": "https://media.discordapp.net/attachments/1036453308807778465/1038441316406792212/game-icon.png"
+			},
+			"description": "This is a brief description of the game",
+			"thumbnail": {
+				"url": "https://cdn.discordapp.com/attachments/1036453308807778465/1038441316406792212/game-icon.png",
+				"proxyURL": "https://media.discordapp.net/attachments/1036453308807778465/1038441316406792212/game-icon.png",
+				"height": 1024,
+				"width": 1024
+			},
+			"fields": [
+				{
+					"name": "Regular field title",
+					"value": "Some value here",
+					"inline": false
+				}
+			],
+			"image": {
+				"url": "https://cdn.discordapp.com/attachments/1036453308807778465/1038441316406792212/game-icon.png",
+				"proxyURL": "https://media.discordapp.net/attachments/1036453308807778465/1038441316406792212/game-icon.png",
+				"height": 1024,
+				"width": 1024
+			},
+			"timestamp": "2022-11-05T13:15:02.520000+00:00"
+		},
+		{
+			"color": 39423,
+			"title": "アルレッキーノ v0.1",
+			"author": {
+				"name": "アルレッキーノ",
+				"iconURL": "https://cdn.discordapp.com/attachments/1036453308807778465/1038443293303902248/game-icon.png",
+				"proxyIconURL": "https://media.discordapp.net/attachments/1036453308807778465/1038443293303902248/game-icon.png"
+			},
+			"description": "This is a brief description of the game",
+			"thumbnail": {
+				"url": "https://cdn.discordapp.com/attachments/1036453308807778465/1038443293303902248/game-icon.png",
+				"proxyURL": "https://media.discordapp.net/attachments/1036453308807778465/1038443293303902248/game-icon.png",
+				"height": 1024,
+				"width": 1024
+			},
+			"fields": [
+				{
+					"name": "Regular field title",
+					"value": "Some value here",
+					"inline": false
+				}
+			],
+			"image": {
+				"url": "https://cdn.discordapp.com/attachments/1036453308807778465/1038443293303902248/game-icon.png",
+				"proxyURL": "https://media.discordapp.net/attachments/1036453308807778465/1038443293303902248/game-icon.png",
+				"height": 1024,
+				"width": 1024
+			},
+			"timestamp": "2022-11-05T13:22:53.874000+00:00"
+		},
+		{
+			"color": 39423,
+			"title": "アルレッキーノ v0.1",
+			"author": {
+				"name": "アルレッキーノ",
+				"iconURL": "https://cdn.discordapp.com/attachments/1036453308807778465/1038444351900106752/game-icon.png",
+				"proxyIconURL": "https://media.discordapp.net/attachments/1036453308807778465/1038444351900106752/game-icon.png"
+			},
+			"description": "This is a brief description of the game",
+			"thumbnail": {
+				"url": "https://cdn.discordapp.com/attachments/1036453308807778465/1038444351900106752/game-icon.png",
+				"proxyURL": "https://media.discordapp.net/attachments/1036453308807778465/1038444351900106752/game-icon.png",
+				"height": 1024,
+				"width": 1024
+			},
+			"fields": [
+				{
+					"name": "Regular field title",
+					"value": "Some value here",
+					"inline": false
+				}
+			],
+			"image": {
+				"url": "https://cdn.discordapp.com/attachments/1036453308807778465/1038444351900106752/game-icon.png",
+				"proxyURL": "https://media.discordapp.net/attachments/1036453308807778465/1038444351900106752/game-icon.png",
+				"height": 1024,
+				"width": 1024
+			},
+			"timestamp": "2022-11-05T13:27:06.206000+00:00"
+		}
+	]
+}
